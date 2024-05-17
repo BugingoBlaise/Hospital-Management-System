@@ -1,0 +1,6 @@
+<?init class="com.hospitalmis.commons.viewModels.AuthenticationInit"?>
+<zk>
+    <window>
+        <label>Hello</label>
+    </window>
+</zk>

@@ -1,0 +1,5 @@
+<?init class="com.hospitalmis.commons.viewModels.AuthenticationInit"?>
+
+<zk>
+    <label>Hello this is default page</label>
+</zk>
